@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sipra Mishra
+### Business Analytics | Data Visualization | Software Testing Background
 
-<!--
-**sipra-mishra/sipra-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA graduate in Business Analytics (MAHE, 2026) with 2 years of experience in software testing, plus hands-on experience in data analytics and dashboard development. I turn data into clear insights that support business decisions.
 
-Here are some ideas to get you started:
+## Skills
+- **Data & Analytics:** SQL, MySQL, Excel, Power BI, Tableau, Python (Pandas, scikit-learn), R (basic)
+- **Testing & Automation:** Selenium with Java, Appium, Cucumber, TestNG, Manual Testing
+- **Methods:** Agile, Requirement Analysis, Exploratory Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- AI-Based Authentic Face Image Classification: link coming soon
+- Data visualization dashboard in R: https://rpubs.com/Sipra_Mishra
+
+## Connect
+- Email: mishrasipra694@gmail.com
