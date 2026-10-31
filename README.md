@@ -9,7 +9,7 @@ MBA graduate in Business Analytics (MAHE, 2026) with 2 years of experience in so
 - **Methods:** Agile, Requirement Analysis, Exploratory Data Analysis
 
 ## Projects
-- AI-Based Authentic Face Image Classification: link coming soon
+- AI-Based Authentic Face Image Classification: https://github.com/sipra-mishra/face-image-classification
 - Data visualization dashboard in R: https://rpubs.com/Sipra_Mishra
 
 ## Connect
